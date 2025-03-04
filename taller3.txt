@@ -2,3 +2,7 @@ Hola compañeros este es el primer commit del taller
 
 
 Este es el segundo commit para darle inicio a una historia de como se resuelve el taller
+
+hola nueva actualiacion 
+actualiacion en la linea de comando 7 
+
