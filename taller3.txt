@@ -6,3 +6,4 @@ Este es el segundo commit para darle inicio a una historia de como se resuelve e
 hola nueva actualiacion 
 actualiacion en la linea de comando 7 
 
+actualizacion numero 2 
